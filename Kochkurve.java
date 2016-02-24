@@ -24,6 +24,6 @@ public class Kochkurve {
 		kochkurve(s, 3);
 		System.out.printf("test");
         System.out.printf("test2");
-		
+		System.out.printf("test3");
 	}
 }
